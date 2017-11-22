@@ -416,3 +416,4 @@ KNN_Accuracy_table<-data.frame(Model_type=rep("KNN",5),
 KNN_Confusion_Matrix
 KNN_Accuracy_table
 
+
