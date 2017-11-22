@@ -1,5 +1,5 @@
 ###############################################################################
-#PRACTISE SET-2 (books: Elements of Stats. Learning, & Intro to Stats. Learning)
+#PRACTISE SET-3 (books: Elements of Stats. Learning, & Intro to Stats. Learning)
 ###############################################################################
 
 
