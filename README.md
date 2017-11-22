@@ -1,3 +1,1 @@
-Books referred for practise:
-a. Introduction to statistical leanring
-b. Elements of statistical leanring
+Books referred for practise - Introduction to statistical leanring, and Elements of statistical leanring
